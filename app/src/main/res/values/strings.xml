@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SkyCrash</string>
+    <string name="arcade_subtitle">Virtual Credits Only • Entertainment</string>
+    <string name="nav_aviator">Aviator</string>
+    <string name="nav_arcade">Arcade</string>
+    <string name="nav_hangar">Hangar</string>
+    <string name="credits_suffix">KSh</string>
+    <string name="refill_credits">Refill +KSh 1,000</string>
+    <string name="aviator_title">SkyCrash Aviator</string>
+    <string name="mines_title">Sky Mines</string>
+    <string name="plinko_title">Turbo Plinko</string>
+    <string name="wheel_title">Neon Wheel</string>
+    <string name="dice_title">Cyber Dice</string>
+</resources>

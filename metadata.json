@@ -1,0 +1,6 @@
+{
+  "name": "SkyCrash",
+  "description": "Aviator multiplier flight crash game paired with Sky Mines, Turbo Plinko, Neon Wheel, and Cyber Dice arcade games using virtual credits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
